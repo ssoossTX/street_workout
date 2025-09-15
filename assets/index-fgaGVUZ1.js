@@ -43,10 +43,7 @@ Error generating stack: `+o.message+`
 Результат: Уверенное прохождение ног над турником без потери равновесия.`},{name:"Бабочка",previewUrl:"https://storage.yandexcloud.net/workout-videos/%D0%B1%D0%B0%D0%B1%D0%BE%D1%87%D0%BA%D0%B0.jpg",videoUrl:"https://storage.yandexcloud.net/workout-videos/%D0%B1%D0%B0%D0%B1%D0%BE%D1%87%D0%BA%D0%B0.mp4",description:`Техника: Подтянитесь так, чтобы турник оказался на уровне шеи, наберите небольшой кач и резко забросьте руки наверх.
 Советы: Следите за положением корпуса, используйте инерцию кача.
 Ошибки: Недостаточный кач, неправильный захват.
-Результат: Освоение базовой динамики для выхода на две руки.`},{name:"Манки",previewUrl:"https://storage.yandexcloud.net/workout-videos/%D0%BC%D0%B0%D0%BD%D0%BA%D0%B8.jpg",videoUrl:"https://storage.yandexcloud.net/workout-videos/%D0%BC%D0%B0%D0%BD%D0%BA%D0%B8.mp4",description:`Техника: Раскачайте ноги в упоре, согните их и перенесите над турником, затем сядьте на перекладину.
-Советы: Держите хват крепким, не отпускайте турник до конца движения.
-Ошибки: Слабый хват, потеря контроля над ногами.
-Результат: Устойчивое положение сидя на турнике.`},{name:"Олли",previewUrl:"https://storage.yandexcloud.net/workout-videos/%D0%BE%D0%BB%D0%BB%D0%B8.jpg",videoUrl:"https://storage.yandexcloud.net/workout-videos/%D0%BE%D0%BB%D0%BB%D0%B8.mp4",description:`Техника: Раскачайте ноги, перенесите их над турником через одну из рук, чтобы оказаться в положении сидя.
+Результат: Освоение базовой динамики для выхода на две руки.`},{name:"Олли",previewUrl:"https://storage.yandexcloud.net/workout-videos/%D0%BE%D0%BB%D0%BB%D0%B8.jpg",videoUrl:"https://storage.yandexcloud.net/workout-videos/%D0%BE%D0%BB%D0%BB%D0%B8.mp4",description:`Техника: Раскачайте ноги, перенесите их над турником через одну из рук, чтобы оказаться в положении сидя.
 Советы: Выбирайте удобную руку, следите за траекторией ног.
 Ошибки: Слишком резкое движение, потеря баланса.
 Результат: Контролируемый переход в положение сидя.`},{name:"180",previewUrl:"https://storage.yandexcloud.net/workout-videos/180.jpg",videoUrl:"https://storage.yandexcloud.net/workout-videos/180.mp4",description:`Техника: Поверните туловище на 180° спереди турника, используя мах ног и корпус.
